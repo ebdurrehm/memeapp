@@ -8,7 +8,7 @@ This project was created by Abdurrahim Ahmadov for practice
 2. Write first and second text you want
 3. Click Save button and save creating image to your local storage
 
-###[Launch live](https://ebdurrehm.github.io/memeapp/)
+[Launch live](https://ebdurrehm.github.io/memeapp/)
 
 ## Available Scripts
 You can clone this project to your local machine and 
