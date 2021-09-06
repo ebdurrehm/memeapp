@@ -9,7 +9,7 @@ function Generator (props){
         <div className="meme">
         <h2 className="firstText">{props.firstText}</h2>
           <h2 className="secondText">{props.secondText}</h2>
-          <img src={props.randomImage} alt="error"/>
+          <img src={props.randomImage} alt=""/>
           </div>
           </div>
 
