@@ -2,6 +2,14 @@
 
 This project was created by Abdurrahim Ahmadov for practice
 
+## App features
+
+1. Load random image (image came from API randomly)
+2. Write first and second text you want
+3. Click Save button and save creating image to your local storage
+
+[Launch live](https://ebdurrehm.github.io/memeapp/)
+
 ## Available Scripts
 You can clone this project to your local machine and 
 In the command prompt, you can run:
@@ -29,9 +37,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## App features
 
-1. Load random image (image came from API randomly)
-2. Write first and second text you want
-3. Click Save button and save creating image to your local storage
+
 
